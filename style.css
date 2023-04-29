@@ -1,0 +1,45 @@
+/* css styles */
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+@import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
+@import url("https://cdn.jsdelivr.net/gh/wan2land/d2coding/d2coding-ligature-subset.css");
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'NanumSquare' !important;
+    font-weight : 600;
+  }
+
+h1 {
+    font-size: 155%
+}
+
+h2 {
+  font-size: 135%
+}
+
+h3 {
+  font-size: 115%
+}
+
+h4, h5, h6 {
+  font-size: 100%
+}
+
+ul, li, ol{
+    font-family: 'pretendard' !important;
+    font-size: 100%;
+   }
+
+p {
+    font-family: 'pretendard' !important;
+    font-size: 95%;
+    font-weight: 400; 
+}
+
+.category {
+  font-size: 90%;
+}
+
+.sourceCode {
+  font-family: 'D2Coding', monospace !important;
+  font-size: 95%;
+}
